@@ -28,17 +28,11 @@ var{
     padding: 0;
     vertical-align: baseline;
 	}
-@font-face {
-font-family: 'Web-Regular';
-src: url('font/Web-Regular.woff2') format('woff2'),
-     url('font/Web-Regular.woff') format('woff');
-font-weight: normal;
-font-style: normal;
-}
+
 html,body {
 margin: 0;
 padding: 0;
-font-family: 'Web-Regular', Helvetica, Helvetica Neue, Arial, sans-serif;
+font-family: 'Rubik', Helvetica, Helvetica Neue, Arial, sans-serif;
 -webkit-font-feature-settings:  "liga" 1, "dlig" 1, "ss07" 1, "ss09" 1;
 -moz-font-feature-settings:     "liga" 1, "dlig" 1, "ss07" 1, "ss09" 1;
 -ms-font-feature-settings:      "liga" 1, "dlig" 1, "ss07" 1, "ss09" 1;
@@ -96,7 +90,7 @@ h2 {
 width:94vw;
 margin: 0 auto;
 line-height: 115%;
-font-size: 6vw;
+font-size: 5vw;
 font-weight: normal;
 font-variant:normal;
 font-style:normal;
@@ -275,7 +269,7 @@ border-top: 1px solid #000;
 position: relative;
 vertical-align:top;
 line-height: 100%;
-font-size: 12vw;
+font-size: 11vw;
 font-weight: normal;
 font-variant:normal;
 font-style:normal;
